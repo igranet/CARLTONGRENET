@@ -1,0 +1,12 @@
+#stock-header{
+    color:red;
+    position:relative;
+    left:50%;
+    right:50%;
+}
+#stocklist{
+    position:relative;
+    color:black;
+    left:50%;
+    right:50%;
+}
